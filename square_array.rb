@@ -7,6 +7,6 @@ def square_array(array)
   #end
   #return my_array
   array.collect {|number| number**2}
-  end
+  
   
 end
